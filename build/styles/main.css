@@ -27,7 +27,7 @@ li {
     max-width: 70%;
   }
 }
-@media (max-width: 768px) and (max-widht: 1023px) {
+@media (max-width: 768px) and (max-width: 1023px) {
   .container {
     max-width: 80%;
   }
